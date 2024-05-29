@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Rahdian</string>
+    <string name="signin">Login</string>
+    <string name="signup">Daftar</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="repassword">Konfirmasi Password</string>
+    <string name="name">Mochamad Rahdian</string>
+    <string name="npm">22552011118</string>
+    <string name="kelas">TIF RM 222 MA</string>
+
+</resources>
